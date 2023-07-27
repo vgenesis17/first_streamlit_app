@@ -1,4 +1,4 @@
-import streanlit
+import streamlit
 
 streamlit.title('MY Parent New Healthy Diner') 
 
